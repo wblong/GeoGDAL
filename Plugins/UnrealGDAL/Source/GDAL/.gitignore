@@ -1,8 +1,0 @@
-# Conan generated files
-conan.lock
-conanbuildinfo.*
-conaninfo.*
-graph_info.*
-
-# Precomputed dependency data
-precomputed/
